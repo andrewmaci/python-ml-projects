@@ -29,7 +29,7 @@ plt.show()
 
 plt.scatter(X,y,color='red')
 plt.plot(X,lin_regressor_poly.predict(X_poly),color='blue')
-plt.title('Polybomial Regression')
+plt.title('Polynomial Regression')
 plt.xlabel('Position level')
 plt.ylabel('Salary')
 plt.show()
