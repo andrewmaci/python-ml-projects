@@ -25,7 +25,7 @@ def vectors_aka_rank_1_tensor():
     '''Vectors can represet either a point in dimensions
     or a 'norm' which is a function that quantifies vector magnitude 
     
-    L^2 Nomr = We square each element of the vector add them to each other and take the root.
+    L^2 Norm = We square each element of the vector add them to each other and take the root.
     ||x||_2 - Measures simple (Euclidean) distance from origin of a vector
     '''
     x = np.array([12,24,4])

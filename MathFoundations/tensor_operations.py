@@ -83,6 +83,7 @@ def dot_product():
     print('------------')
     print(x_pt,y_pt)
     print(torch.dot(x_pt,y_pt))
+dot_product()
 
 def linear_systems_with_substiution():
     '''
