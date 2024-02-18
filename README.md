@@ -1,31 +1,18 @@
-# Machine learning course
+# AI
 
-Repository in which you can find all my implementations of ML algorithms with Scikit-learn
+Repository in which you can find all my projects related to learnign about AI
 
-## Subjects
-- ~~Data-Preprocessing~~
-- ~~Simple Linear Regression~~
-- ~~Multiple Linear Regression~~
-- ~~Polynomial Regression~~
-- ~~SVR~~
-- ~~Decision Tree Regression~~
-- ~~Random Forest Regression~~
-- ~~Logistic Regression~~
-- ~~K Nearest Neighbors~~
-- ~~SVM~~
-- ~~Kernel SVM~~
-- ~~Naive Bayes~~
-- ~~Decision Tree Classifier~~
-- ~~Random Forest Classifier~~
-- ~~K Means~~
-- Hierarchical Clustering
-- Association Rule - Apriori
-- Association Rule - Eclat
-- Reinforced learnign - Upper Confidence Bound
-- Reinforced learnign - Thompson Sampling
-- NLP Bag-of-words
-- AANs
-- CNNs
-- Principal Component Analysis
-- Linear Discriminant Analysis
-- Kernel PCA
+
+## PyTorch
+
+Actual PyTorch projects
+
+## MathFoundations
+
+Consists of mathematical foundations needed to understand how AI works under the hood eg. matrices, vectors, lineart algegra etc. All with explanation and implementation with NumPy and PyTorch,
+
+## Algorithms
+
+Contains files regarding multiple different ML algorithms
+
+

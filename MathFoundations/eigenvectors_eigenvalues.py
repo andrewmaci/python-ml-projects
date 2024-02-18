@@ -62,3 +62,12 @@ def multiple_afine_transformations():
                         axis=1)
     print(V)
     print(np.dot(I,V)) 
+
+def eigenvectors():
+    '''
+    eigenvector of a linear transformation is a non-zero vector 
+    that, when the transformation is applied to it, only changes 
+    in scale (i.e., it is stretched or compressed) and not in direction. 
+    Mathematically, if A is a square matrix and v is an eigenvector of A, 
+    then there exists a scalar λ (called the eigenvalue) such that Av = λv
+    '''
